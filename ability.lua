@@ -25,7 +25,7 @@
 ]]
 
 -- ── CONFIG ─────────────────────────────────────────────────────────────
-local ENDPOINT = "https://ppc-authentic-baltimore-badge.trycloudflare.com"
+local ENDPOINT = "https://model-favor-variable-departure.trycloudflare.com"
 local INTERVAL = 60   -- seconds between heartbeats
 -- If your executor runs on a different machine, change ENDPOINT to the
 -- public URL (e.g. https://your-tunnel.example/track).
